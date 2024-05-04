@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Aman Kumar
+#### Design and Development
+![Design and Development]( https://media.licdn.com/dms/image/D5616AQG6x31_W1ZLww/profile-displaybackgroundimage-shrink_350_1400/0/1714807792410?e=1720051200&v=beta&t=4kWOgwZgs6DABB9nAY0HQ_a6DT1J0gNQgUVRt2LyqXI)
 
-<!--
-**AmanKumar-33/AmanKumar-33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm Aman Kumar from India and I do Development and Programming.
+I really enjoy solving new problem and leaning upcoming technology.
 
-Here are some ideas to get you started:
+Skills: PYTHON / C++,C /JavaScript/ DBMS / Computer Network / OOPs / Machine Learning /Problem Solving/ Flask / HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
